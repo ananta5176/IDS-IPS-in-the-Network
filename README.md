@@ -1,1 +1,21 @@
 # IDS-IPS-in-the-Network
+ IntrusionDetectionSystemis a software or a device that canmonitor all the
+ suspiciousactivities inthenetworkor thatactivities thatviolates itspolicy. IDSis
+ verypopular systemtoprotect thenetworks fromdifferent typesof attacks.Any
+ intrusionactivityorviolationisreportedor informedeither toadministratoror this
+ informationcanbecentrallycollectedinasystemcalledSIEM(SecurityInformation
+ andEventManagement).Itcollectsandcombineinformationfromdifferentsources,
+ anditusesalarmfilteringtechniques.Thereare twomost common typesof IDS.
+ (NIDS)NetworkbasedIntrusiondetectionsystemand(HIDS)HostbasedIntrusion
+ detectionsystem.HIDSisusedformonitoringimportantoperatingsystemfilesand
+ NIDSareusedtoanalyzeincomingnetworktraffic.Here’showIDSwork,IDSwhen
+ placedatastrategicpointorpointswithinanetworktomonitortraffictoandfromall
+ devicesonthenetwork,anIDSwillperformananalysisofpassingtraffic,andmatch
+ thetrafficthatispassedonthesubnetstothelibraryofknownattacks.Onceanattack
+ isidentified,orabnormalbehaviorissensed,thealertcanbesenttotheadministrator.
+ Modernnetworkedbusinessenvironmentsrequireahighlevelofsecuritytoensure
+ safeandtrustedcommunicationof informationbetweenvariousorganizations.An
+ intrusiondetection systemacts as anadaptable safeguard technology for system
+ securityafter traditional technologies fail. Cyber-attackswill onlybecomemore
+ sophisticated, soit is important thatprotectiontechnologiesadapt alongwiththeir
+ threats.
